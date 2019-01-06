@@ -2,7 +2,6 @@
 <p align="center"> 
 <img src="https://i.imgur.com/c6v95HF.gif">
 </p>
-![Solver](https://i.imgur.com/c6v95HF.gif)
 
 During my 2018 Fall semester, I took a Intro to Artificial Itelligence class. I learned how to set up the Sudoku puzzle as a constraint 
 satisfaction problem (CSP) and subsequently solve it using the Arc Consistency 3 algorithm and backtracking. I had a lot of fun doing that 
