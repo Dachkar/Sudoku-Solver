@@ -1,9 +1,10 @@
 # Sudoku-Solver
-![Solver](https://i.imgur.com/c6v95HF.gif?style=centerme)
 img[src$="centerme"] {
   display:block;
   margin: 0 auto;
 }
+![Solver](https://i.imgur.com/c6v95HF.gif?style=centerme)
+
 During my 2018 Fall semester, I took a Intro to Artificial Itelligence class. I learned how to set up the Sudoku puzzle as a constraint 
 satisfaction problem (CSP) and subsequently solve it using the Arc Consistency 3 algorithm and backtracking. I had a lot of fun doing that 
 and decided to create a standalone tool that could solve any state of the puzzle.
